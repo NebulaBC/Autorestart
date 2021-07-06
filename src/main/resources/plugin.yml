@@ -1,0 +1,7 @@
+name: Autorestart
+version: ${project.version}
+main: net.nebulabc.autorestart.Autorestart
+api-version: 1.17
+authors: [ NebulaBC ]
+description: A restart plugin for Hypatios Minecraft
+website: nebulabc.net

@@ -3,5 +3,5 @@ version: ${project.version}
 main: net.nebulabc.autorestart.Autorestart
 api-version: 1.17
 authors: [ NebulaBC ]
-description: A restart plugin for Hypatios Minecraft
+description: An Auto-restart plugin for Spigot Minecraft
 website: nebulabc.net

@@ -2,7 +2,7 @@
 A lightweight stable plugin for Spigot that restarts the server at a time set in the config.yml [1-24 hours]
 
 ## Version
-Autorestart is on version 1.2, and is made for Minecraft version Spigot or Paper 1.17.* (any 1.17 version)
+Autorestart is on version 1.3, and is made for Minecraft version Spigot or Paper 1.17.* (any 1.17 version)
 
 ## How to use
 Place the jar from the [releases](https://github.com/NebulaBC/Autorestart/releases/latest) tab in your plugins folder. You can change the prefix, time, and colors in config.yml.

@@ -1,3 +1,18 @@
 # -------------------------------
 # Autorestart config.yml
 # -------------------------------
+
+# What time would you like the server to restart. 24 hour time. See: https://en.wikipedia.org/wiki/24-hour_clock
+hour: 24
+# What would you like the chat prefix to be during countdown. Example: [Autorestart] Restarting in 5 minutes
+prefix: Autorestart
+# Shows title for all players during countdown. See: https://minecraft.fandom.com/wiki/Commands/title
+title: true
+# Play's a pling sound during the countdown
+sound: true
+# Your server's main theme color.
+maincolor: §c
+# Your server's second theme color
+secondarycolor: §8
+# The text color duing chat messages
+textcolor: §c

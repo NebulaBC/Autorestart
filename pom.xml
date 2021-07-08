@@ -6,7 +6,7 @@
 
     <groupId>net.nebulabc</groupId>
     <artifactId>autorestart</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.3</version>
     <packaging>jar</packaging>
 
     <name>Autorestart</name>
